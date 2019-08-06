@@ -2,10 +2,13 @@
 
 (function() {
 
-    if (!window.OpenSeadragon) {
-        console.error('[openseadragon-canvas-overlay] requires OpenSeadragon');
-        return;
-    }
+    // if (!window.OpenSeadragon) {
+    //     console.error('[openseadragon-canvas-overlay] requires OpenSeadragon');
+    //     return;
+    // }
+
+    var OpenSeadragon = require('openseadragon');
+    var fabric = require('./fabric/fabric.adapted').fabric;
 
 
     /**
