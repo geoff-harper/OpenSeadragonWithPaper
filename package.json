@@ -30,8 +30,8 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "openseadragon": "^2.0.0",
-    "fabric-browseronly": "^3.2.0"
+    "fabric-webpack": "^1.6.0-rc.1",
+    "openseadragon": "^2.4.1"
   },
   "deprecated": false,
   "description": "An OpenSeadragon plugin that adds fabricjs canvas overlay capability.",
