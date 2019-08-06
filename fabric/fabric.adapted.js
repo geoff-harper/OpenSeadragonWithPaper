@@ -10,7 +10,7 @@ if (typeof document !== 'undefined' && typeof window !== 'undefined') {
   fabric.document = document;
   fabric.window = window;
   // ensure globality even if entire library were function wrapped (as in Meteor.js packaging system)
-  window.fabric = fabric;
+  // window.fabric = fabric;
 }
 
 /**
