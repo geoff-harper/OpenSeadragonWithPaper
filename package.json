@@ -27,7 +27,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "openSeadragon": "^2.4.1",
+    "openseadragon": "^2.4.1",
     "paper": "^0.12.3"
   },
   "deprecated": false,
