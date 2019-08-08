@@ -1,4 +1,4 @@
-# OpenseadragonWithPaper
+# OpenSeadragonWithPaper
 
 An [OpenSeadragon](http://openseadragon.github.io) plugin that adds paper.js overlay capability.
 
