@@ -1,58 +1,55 @@
 {
-  "_from": "openseadragon-fabricjs-overlay",
-  "_id": "openseadragon-fabricjs-overlay@0.2.4",
+  "_from": "https://github.com/geoff-harper/OpenSeadragonWithPaper/tarball/master",
+  "_id": "OpenSeadragonWithPaper@0.0.1",
   "_inBundle": false,
-  "_integrity": "sha512-5i4ml0zB6GxUbd8mzo76uRbl0e32tcLLhkjioBehvXSo34S8nuy/ZDlmhI6vd1dVwKTkzqSMrkzHDjZxRynQXg==",
-  "_location": "/openseadragon-fabricjs-overlay",
+  "_integrity": "sha512-tw27fZ3YBdZtpGfj50LUIyldBKNyw6iy+DZwg0wmEjJtwkxdB8yxWIGpBuYKPTlNtgs+0XBjY/yh2UZb1s72dQ==",
+  "_location": "/index.js",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "openseadragon-fabricjs-overlay",
-    "name": "openseadragon-fabricjs-overlay",
-    "escapedName": "openseadragon-fabricjs-overlay",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
+    "type": "remote",
+    "raw": "https://github.com/geoff-harper/OpenSeadragonWithPaper/tarball/master",
+    "rawSpec": "https://github.com/geoff-harper/OpenSeadragonWithPaper/tarball/master",
+    "saveSpec": "https://github.com/geoff-harper/OpenSeadragonWithPaper/tarball/master",
+    "fetchSpec": "https://github.com/geoff-harper/OpenSeadragonWithPaper/tarball/master"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/openseadragon-fabricjs-overlay/-/openseadragon-fabricjs-overlay-0.2.4.tgz",
-  "_shasum": "08d15f37e3d80a98731fcb5b6486858933ab5fc5",
-  "_spec": "openseadragon-fabricjs-overlay",
+  "_resolved": "https://github.com/geoff-harper/OpenSeadragonWithPaper/tarball/master",
+  "_shasum": "93eeebdf19fb0f846d73af2f823118e34bc1ec91",
+  "_spec": "https://github.com/geoff-harper/OpenSeadragonWithPaper/tarball/master",
   "author": {
     "name": "Jese Rodriguez"
   },
   "bugs": {
-    "url": "https://github.com/jeserodz/openseadragon-fabricjs-overlay/issues"
+    "url": "https://github.com/geoff-harper/OpenSeadragonWithPaper/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
-    "fabric-webpack": "^1.6.0-rc.1",
-    "openseadragon": "^2.4.1"
+    "openSeadragon": "^2.4.1",
+    "paper": "^0.12.3"
   },
   "deprecated": false,
   "description": "An OpenSeadragon plugin that adds fabricjs canvas overlay capability.",
   "files": [
     "*/**",
-    "openseadragon-fabricjs-overlay.js",
+    "index.js",
     "!.git"
   ],
-  "homepage": "https://github.com/jeserodz/openseadragon-fabricjs-overlay#readme",
+  "homepage": "https://github.com/geoff-harper/OpenSeadragonWithPaper#readme",
   "keywords": [
-    "openseadragon",
+    "openSeadragon",
     "plugin",
     "canvas",
     "overlay"
   ],
   "license": "BSD-3-Clause",
   "main": "index.js",
-  "name": "openseadragon-fabricjs-overlay",
+  "name": "OpenSeadragonWithPaper",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeserodz/openseadragon-fabricjs-overlay.git"
+    "url": "git+https://github.com/geoff-harper/OpenSeadragonWithPaper.git"
   },
   "version": "0.2.4"
 }
